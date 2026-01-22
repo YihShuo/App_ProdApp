@@ -1,37 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\ERP_API Ty Thac\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{7B749D27-6F63-4CC1-97C9-70337B55DFEF}|ERP_API\\ERP_API.csproj|c:\\users\\admin\\source\\repos\\erp_api ty thac\\erp_api\\controllers\\erpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B749D27-6F63-4CC1-97C9-70337B55DFEF}|ERP_API\\ERP_API.csproj|solutionrelative:erp_api\\controllers\\erpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\ProdApp\\ERP_API Ty Thac\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ERPController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ERP_API Ty Thac\\ERP_API\\Controllers\\ERPController.cs",
-              "RelativeDocumentMoniker": "ERP_API\\Controllers\\ERPController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ERP_API Ty Thac\\ERP_API\\Controllers\\ERPController.cs",
-              "RelativeToolTip": "ERP_API\\Controllers\\ERPController.cs",
-              "ViewState": "AgIAAFUVAAAAAAAAAAASwF0VAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T02:42:43.76Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
