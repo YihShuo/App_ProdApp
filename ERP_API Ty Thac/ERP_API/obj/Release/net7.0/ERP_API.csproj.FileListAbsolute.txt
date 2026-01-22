@@ -1,0 +1,132 @@
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\appsettings.Development.json
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\appsettings.json
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\ERP_API.exe
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\ERP_API.deps.json
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\ERP_API.runtimeconfig.json
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\ERP_API.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\ERP_API.pdb
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Release\net7.0\ERP_API.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Release\net7.0\ERP_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Release\net7.0\ERP_API.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Release\net7.0\ERP_API.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Release\net7.0\ERP_API.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Release\net7.0\ERP_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Release\net7.0\staticwebassets.build.json
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Release\net7.0\staticwebassets.development.json
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Release\net7.0\scopedcss\bundle\ERP_API.styles.css
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Release\net7.0\ERP_API.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Release\net7.0\refint\ERP_API.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Release\net7.0\ERP_API.pdb
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Release\net7.0\ERP_API.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Release\net7.0\ref\ERP_API.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\Humanizer.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\Mono.TextTemplating.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\System.CodeDom.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\Resources\Raw\firebase-adminsdk.json
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\Hangfire.AspNetCore.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\Hangfire.Core.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\Hangfire.NetCore.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\Hangfire.SqlServer.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\ca\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\de\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\es\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\fa\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\fr\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\nb\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\nl\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\pt\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\sv\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\tr-TR\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\zh\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Release\net7.0\ERP_API.csproj.Up2Date
+C:\Users\Admin\source\repos\ERP_API\ERP_API\bin\Release\net7.0\ERP_API.staticwebassets.endpoints.json
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Release\net7.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Release\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Release\net7.0\staticwebassets.build.json.cache
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Release\net7.0\rpswa.dswa.cache.json
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Release\net7.0\rjimswa.dswa.cache.json
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Release\net7.0\rjsmrazor.dswa.cache.json
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Release\net7.0\rjsmcshtml.dswa.cache.json
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\appsettings.Development.json
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\Resources\Raw\firebase-adminsdk.json
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\ERP_API.staticwebassets.endpoints.json
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\appsettings.json
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\ERP_API.exe
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\ERP_API.deps.json
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\ERP_API.runtimeconfig.json
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\ERP_API.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\ERP_API.pdb
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\Hangfire.AspNetCore.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\Hangfire.Core.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\Hangfire.NetCore.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\Hangfire.SqlServer.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\Humanizer.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\Mono.TextTemplating.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\System.CodeDom.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\ca\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\de\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\es\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\fa\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\fr\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\nb\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\nl\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\pt\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\sv\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\tr-TR\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\zh\Hangfire.Core.resources.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\obj\Release\net7.0\ERP_API.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\obj\Release\net7.0\rpswa.dswa.cache.json
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\obj\Release\net7.0\ERP_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\obj\Release\net7.0\ERP_API.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\obj\Release\net7.0\ERP_API.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\obj\Release\net7.0\ERP_API.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\obj\Release\net7.0\ERP_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\obj\Release\net7.0\rjimswa.dswa.cache.json
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\obj\Release\net7.0\rjsmrazor.dswa.cache.json
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\obj\Release\net7.0\rjsmcshtml.dswa.cache.json
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\obj\Release\net7.0\scopedcss\bundle\ERP_API.styles.css
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\obj\Release\net7.0\staticwebassets.build.json
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\obj\Release\net7.0\staticwebassets.build.json.cache
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\obj\Release\net7.0\staticwebassets.development.json
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\obj\Release\net7.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\obj\Release\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\obj\Release\net7.0\ERP_API.csproj.Up2Date
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\obj\Release\net7.0\ERP_API.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\obj\Release\net7.0\refint\ERP_API.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\obj\Release\net7.0\ERP_API.pdb
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\obj\Release\net7.0\ERP_API.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\obj\Release\net7.0\ref\ERP_API.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\System.IO.Pipelines.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\System.Text.Json.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\ERP_API Ty Thac\ERP_API\bin\Release\net7.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll

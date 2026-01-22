@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Docker\publish\ERP_API.exe
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Docker\publish\appsettings.Development.json
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Docker\publish\appsettings.json
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Docker\publish\ERP_API.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Docker\publish\ERP_API.runtimeconfig.json
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Docker\publish\ERP_API.pdb
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Docker\publish\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Docker\publish\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Docker\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Docker\publish\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Docker\publish\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Docker\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Docker\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\ERP_API\ERP_API\obj\Docker\publish\ERP_API.deps.json

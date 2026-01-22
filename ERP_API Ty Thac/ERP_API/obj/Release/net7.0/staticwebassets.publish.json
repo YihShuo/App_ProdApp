@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OVcfKonVFrvYhGXlTN0gccj5rKj7YcklG0Oq0+kpOyk=",
+  "Source": "ERP_API",
+  "BasePath": "_content/ERP_API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
