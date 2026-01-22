@@ -1,0 +1,9 @@
+*.tar
+*.tmp
+*.log
+*.zip
+*.7z
+obj/
+bin/
+
+

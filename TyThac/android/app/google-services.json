@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145857208204",
+    "project_id": "tythac-6c448",
+    "storage_bucket": "tythac-6c448.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145857208204:android:856e9daf65d341e07dc0a9",
+        "android_client_info": {
+          "package_name": "com.ahkah.tythac.prodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqu1VbCE0cUR6CxNGSGP0HRTYN-95HbzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
