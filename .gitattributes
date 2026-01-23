@@ -1,0 +1,8 @@
+track filter=lfs diff=lfs merge=lfs -text
+*.targit filter=lfs diff=lfs merge=lfs -text
+*.exegit filter=lfs diff=lfs merge=lfs -text
+*.isogit filter=lfs diff=lfs merge=lfs -text
+*.apkgit filter=lfs diff=lfs merge=lfs -text
+*.aab filter=lfs diff=lfs merge=lfs -text
+*.zipgit filter=lfs diff=lfs merge=lfs -text
+lfs filter=lfs diff=lfs merge=lfs -text
